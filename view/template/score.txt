@@ -1,0 +1,1 @@
+<score rank="{rank}" name="{name}" facebook_id="{facebook_id}" total="{total}"></score>
